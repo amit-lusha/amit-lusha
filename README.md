@@ -7,7 +7,7 @@ Currently, I'm focused on the intersection of **Event-Driven Microservices** and
 ### 🛠 My Technical Toolbox
 
 #### **Backend & Infrastructure**
-* **Languages:** Python (Primary), SQL.
+* **Languages:** Python (Primary), SQL, NoSql
 * **Data & Messaging:** PostgreSQL, Apache Kafka.
 * **DevOps:** Docker, Containerization.
 
